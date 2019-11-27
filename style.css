@@ -8,6 +8,7 @@ body {
 h1 {
     color: crimson;
     text-align: center;
+    font-family: 'Indie Flower', cursive;
 }
 
 div {
@@ -20,6 +21,10 @@ a {
 
 textarea {
     width: 100%;
+}
+
+nav {
+    text-align: center;
 }
 
 nav a {

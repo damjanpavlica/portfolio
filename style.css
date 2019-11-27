@@ -1,0 +1,40 @@
+body {
+    background: lightgray;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    color: orangered;
+}
+
+textarea {
+    width: 100%;
+}
+
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    border: 2px solid gray;
+    padding: 2px 8px;
+}
+
+.center {
+    text-align: center;
+}
+
+.lead {
+    font-style: italic;
+    font-weight: bold;
+    color: gray;
+}
